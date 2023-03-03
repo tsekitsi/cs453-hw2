@@ -1,2 +1,2 @@
-# cs453-hw2
-Source code for HW2.
+# S23 COM S 453 - Homework 2
+Authors: Benjamin Lee, Feifei Cheng & Marios Tsekitsidis
